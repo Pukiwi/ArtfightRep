@@ -1,0 +1,19 @@
+{
+    "frames": [
+        {
+        "id": 1,
+        "nameFrames": "Jotaro Kujo",
+        "img": "/images/frames/TeamTragedy.png"
+        }
+    ],
+    "ocs": [
+        {
+        "id": 1,
+        "name": "Example",
+        "img": "https://i.imgur.com/Q5Ved8b.png"
+        }
+    ],
+    "profile":{
+        "name":"YurKiwi"
+    }
+}
